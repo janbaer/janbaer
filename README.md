@@ -2,8 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm working with Kubernetes, Docker, Node.js, React.js, Next.js
-- 🌱 Currently I learn Go
+- 🔭 I'm working with Kubernetes, Docker, Node.js, React.js, Next.js, Go
 
-- 📫 How to reach me: better not ;-)
 
